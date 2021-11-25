@@ -7,8 +7,4 @@ This project will serve to build a deep learning model that recognizes persons w
    <br/>
 ## This repositry contains:
 - [Images folder](/Images)
-- [Jupyter Notebooks folder.](/Jupyter-Notebooks)
 - [Proposal.](Face-Mask-Detection-Propsal.md)
-- [MVP.](MVP.md)
-- [Slides.](-Slides.pdf)
-- [Final Report.](.md)
