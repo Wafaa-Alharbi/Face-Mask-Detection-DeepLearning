@@ -6,3 +6,5 @@ This project will serve to build a deep learning model that recognizes persons w
 ## This repositry contains:
 - [Images folder](/Images)
 - [Proposal.](Face-Mask-Detection-Propsal.md)
+- [MVP.](Face-Mask-Detection-MVP.md)
+
